@@ -33,6 +33,5 @@ while True:
 camera.release()
 cv2.destroyAllWindows()
 
-
-print("hello this is isha")
+print("hello piyush and isha")
     
