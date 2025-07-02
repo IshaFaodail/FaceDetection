@@ -34,5 +34,5 @@ camera.release()
 cv2.destroyAllWindows()
 
 
-print("hello this is isha rao")
+print("hello this is isha")
     
